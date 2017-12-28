@@ -30,7 +30,7 @@ Original Signals             |  Reconstructed Signals
   <i>EM on MNIST </i>
   <br />
   <br />
-  <img src="src/lab3/img/vae.png" width="400" /><br />
+  <img src="src/lab3/img/vae.png" width="600" /><br />
   <i>Learned Manifold of the VAE on MNIST</i>
 </p>
 
