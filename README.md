@@ -17,7 +17,7 @@ Original Signals             |  Reconstructed Signals
 ### Lab 2 - Sum-Product and Max-Sum Algorithms
 - [Assignment and Solutions](src/lab2/lab02_KIANFAR_GALLEGO.ipynb)
 
-Original Signals             | 
+Bayesian Network           | 
 :-------------------------:|
 <img src="src/lab2/bn.png" width="400" />  | 
 
@@ -25,9 +25,14 @@ Original Signals             |
 ### Lab 3 - Expectation Maximization (EM) and Variational Autoencoders (VAE)
 - [Assignment and Solutions](src/lab3/lab03_KIANFAR_GALLEGO.ipynb)
 
-EM on MNIST             |  Learned Manifold of the VAE on MNIST
-:-------------------------:|:-------------------------:
-<img src="src/lab3/img/em.png" width="400" />  |  <img src="src/lab3/img/vae.png" width="400" />
+EM on MNIST             |  
+:-------------------------:|
+<img src="src/lab3/img/em.png" width="400" />  |  
+
+
+Learned Manifold of the VAE on MNIST |
+:-------------------------: |
+<img src="src/lab3/img/vae.png" width="400" />| 
 
 ## Testing
 Refer to each lab and run the iPython notebook as follows.
