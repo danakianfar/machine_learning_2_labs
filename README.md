@@ -4,7 +4,7 @@
 
 ## Description
 
-Code for the labs of the [Machine Learning 2 course](http://coursecatalogue.uva.nl/xmlpages/page/2017-2018-en/search-course/course/34043) at the University of Amsterdam.
+Code for the labs of the [Machine Learning 2](http://coursecatalogue.uva.nl/xmlpages/page/2017-2018-en/search-course/course/34043) course at the University of Amsterdam.
 
 ### Lab 1 - Independent Component Analysis (ICA)
 - [Assignment and Solutions](src/lab1/lab01_KIANFAR_GALLEGO.ipynb)
@@ -13,6 +13,7 @@ Original Signals             |  Reconstructed Signals
 :-------------------------:|:-------------------------:
 <img src="src/lab1/img/original.png" width="400" />  |  <img src="src/lab1/img/phi3.png" width="400" />
 
+- Reconstructed audios: [Speech](src/lab1/demix/demix1_phi3.wav) - [Beethoven](src/lab1/demix/demix2_phi3.wav) - [Street](src/lab1/demix/demix4_phi3.wav)
 
 ### Lab 2 - Sum-Product and Max-Sum Algorithms
 - [Assignment and Solutions](src/lab2/lab02_KIANFAR_GALLEGO.ipynb)
@@ -30,7 +31,7 @@ Original Signals             |  Reconstructed Signals
   <i>EM on MNIST </i>
   <br />
   <br />
-  <img src="src/lab3/img/vae.png" width="600" /><br />
+  <img src="src/lab3/img/vae.png" width="400" /><br />
   <i>Learned Manifold of the VAE on MNIST</i>
 </p>
 
