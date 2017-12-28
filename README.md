@@ -36,7 +36,10 @@ jupyter notebook $notebook_name$.ipynb
 ```
 
 ## Dependencies
-- Lab 1: scipy, 
+iPython notebook
+- Lab 1: SciPy, NumPy, matplotlib
+- Lab 2: itertools, NumPy, matplotlib
+- Lab 3: gzip, SciPy, torch, matplotlib
 
 ## Contributors
 
