@@ -19,7 +19,7 @@ Original Signals             |  Reconstructed Signals
 - [Assignment and Solutions](src/lab2/lab02_KIANFAR_GALLEGO.ipynb)
 
 <p align="center">
-  <img src="src/lab2/bn.png" width="400" /><br />
+  <img src="src/lab2/bn.png" width="300" /><br />
   <i>Bayesian Network </i>
 </p>
 
@@ -27,11 +27,11 @@ Original Signals             |  Reconstructed Signals
 - [Assignment and Solutions](src/lab3/lab03_KIANFAR_GALLEGO.ipynb)
 
 <p align="center">
-  <img src="src/lab3/img/em.png" width="400" /><br />
+  <img src="src/lab3/img/em.png" width="500" /><br />
   <i>EM on MNIST </i>
   <br />
   <br />
-  <img src="src/lab3/img/vae.png" width="400" /><br />
+  <img src="src/lab3/img/vae.png" width="500" /><br />
   <i>Learned Manifold of the VAE on MNIST</i>
 </p>
 
